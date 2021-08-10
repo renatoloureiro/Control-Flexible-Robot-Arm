@@ -1,0 +1,22 @@
+ CC - Project
+ 
+ Authors:	Renato Loureiro
+ 		Pedro Sarnadas
+ 		Tiago Santos
+ 		
+ Instructions:
+ 	The basic file for the analysis if the control part of the project is the 
+ 	'demo.m' which imports the data from the estimated model and the real one.
+ 	For validation of the regulater and observer, it is used the simulink file
+ 	'Control_Validation.slx' and for the overall lqg and dead zone non linear
+ 	charateristic it is used the 'Control_Scheme.slx' file.
+ 	
+ 	For the model estimation, just run the 'BasicSim.m' or the 'Identification
+ 	Algorithm_best.m' - there will be a better explanation inside each file.
+ 	
+ 	
+ 	
+ 	
+ Note:
+ 	The file LQE_LQR_par.m it is the same has the demo.m but has less information,
+ 	must use the 'demo.m' to import and to necessary operations
