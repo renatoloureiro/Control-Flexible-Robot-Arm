@@ -3,6 +3,7 @@
 <p>
     <img src="https://img.shields.io/badge/ubuntu-v20.04-blue"/>
     <img src="https://img.shields.io/badge/matlab-R2020a-orange"/>
+    <img src="https://img.shields.io/badge/Simulink-v10.1-orange"/>
     <img src="https://img.shields.io/badge/language-portuguese-red"/>
 </p>
 
